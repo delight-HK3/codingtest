@@ -1,4 +1,4 @@
-class rest_1 {
+class number_87389 {
     public int solution(int n) { // 매개변수 n
         int answer = 0; // 리턴할 변수 answer
         for(int x = 1; x < n; x++){ // x를 n보다 1낮은 만큼 반복
