@@ -14,4 +14,4 @@
 ### 해결한 문제 해설
 * 나머지가 1이 되는 수 찾기 : https://juniorprogram.tistory.com/112
 * 3진법 뒤집기 : https://juniorprogram.tistory.com/113
-* 신고 결과 받기 : 
+* 신고 결과 받기 : https://juniorprogram.tistory.com/115
