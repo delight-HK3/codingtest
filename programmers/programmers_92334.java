@@ -14,6 +14,7 @@ class Solution {
             String name = id_list[i]; // name에 id_list인자값을 저장한다.
             member.put(name, new HashSet<>()); // member Hashmap에 name, HashSet으로 초기화
             callmember.put(name, i); // callmember Hashmap에 name, i값으로 초기화
+            // member의 HashMap중에 String은 신고 받은자로 저장하고 HashMap<String>에 신고자를 저장
         }
 
         for (int i = 0; i < report.length; i++) { // report배열의 갈이 만큼 반복
