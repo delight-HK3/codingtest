@@ -1,4 +1,4 @@
-# programmers study
+# programmers
 
 >사용한 언어 : Java<br> 
 >확인한 Tool : intellij IDEA ultimate<br> 
