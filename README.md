@@ -12,4 +12,5 @@
 
 ### 해결한 문제 (Baekjoon)
 * ATM : https://www.acmicpc.net/problem/11399
+* 동전 0 : https://www.acmicpc.net/problem/11047
 * 거스름돈 : https://www.acmicpc.net/problem/5585
